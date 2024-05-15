@@ -1,0 +1,8 @@
+{
+    "log_level": "info",
+    "log_message": "API call done",
+    "timestamp": "2024-05-14T08:45:00.259Z",
+    "metadata": {
+        "source": "https://official-joke-api.appspot.com/random_joke"
+    }
+}

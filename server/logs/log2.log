@@ -1,0 +1,8 @@
+{
+    "log_level": "info",
+    "log_message": "API call done",
+    "timestamp": "2024-05-14T08:44:57.239Z",
+    "metadata": {
+        "source": "https://dummy.restapiexample.com/api/v1/employees"
+    }
+}

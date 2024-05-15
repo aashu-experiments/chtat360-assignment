@@ -1,0 +1,8 @@
+{
+    "log_level": "info",
+    "log_message": "API call done",
+    "timestamp": "2024-05-14T08:44:58.838Z",
+    "metadata": {
+        "source": "https://www.boredapi.com/api/activity"
+    }
+}
